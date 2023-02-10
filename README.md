@@ -8,7 +8,7 @@ I have no idea what will happen here.
 
 ## Welcome
 
-Welcome to the public but back end home of [Play by Bardia](https://playnorfolk.club/). My name in Miguel and I dabble in a bunch of random projects both online and where grass grows 🪴. I wanted to learn how people collaborate online and I felt that this would be a good mini project to push along. If you've ever worked on something at this exhibit you're welcome to DM me and request write access so you can contribute to this repo! 🔥🔥🔥
+Welcome to the public but back end home of [Play by Bardia](https://playnorfolk.club/). My name in Miguel and I dabble in a bunch of random projects both online and where grass grows 🪴. I wanted to learn how people collaborate online and I felt that this would be a good mini project to push along. If you've ever worked on something at this exhibit you're welcome to [DM me](https://dot.cards/migueloutdoors) and request write access so you can contribute to this repo! 🔥🔥🔥
 
 For everyone else, I'm happy to review and look at pull requests, but we live in the real world and I need to be careful of malicious attacks. I appreciate the understanding 🙏. Of course, you're free to browse either way!
 
