@@ -18,4 +18,4 @@ There is already a page  for our creators on the actual [site](https://playnorfo
 
 ### Miguel Lopez Rivera
 
-
+Hello! I created this site. I'm pretty new to this immersive exhibit, but I've had a lovely time so far and I'm excited to see where my involvement here takes me. My current projects include
