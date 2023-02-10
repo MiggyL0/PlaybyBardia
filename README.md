@@ -14,7 +14,7 @@ For everyone else, I'm happy to review and look at requests, but we live in the 
 
 ## Meet the Makers
 
-
+There is already a page  for our creators on the actual [site](https://playnorfolk.club/casting-call/). However, if you are a creator and you are reading this I encourage you to add a bio! Maybe discuss and make pages for projects you are working on. This is a playground as well! I know github is not everyone's strong suit, but if you would like to add something here and are not sure how reach out to me. 😄
 
 ### Miguel Lopez Rivera
 
