@@ -3,7 +3,8 @@
 I have no idea what will happen here.
 
 - [Welcome](#welcome)
-- [Makers](#makers)
+- [Meet the Makers](#meet-the-makers)
+  - [Miguel Lopez Rivera](#miguel-lopez-rivera)
 
 ## Welcome
 
@@ -11,5 +12,10 @@ Welcome to the public but back end home of [Play by Bardia](https://playnorfolk.
 
 For everyone else, I'm happy to review and look at requests, but we live in the real world and I need to be careful of malicious attacks. I appreciate the understanding 🙏, you're free to browse either way!
 
-## Makers
+## Meet the Makers
+
+
+
+### Miguel Lopez Rivera
+
 
