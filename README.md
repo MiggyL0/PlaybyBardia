@@ -20,7 +20,7 @@ There is already a page for our creators on the actual [site](https://playnorfol
 
 Hello! I created this site. I'm pretty new to this immersive exhibit, but I've had a lovely time so far and I'm excited to see where my involvement here takes me. My current projects include the following
 
-- [[Sculpting a Phoenix]]
+- [[Sculpting-a-Wooden-Phoenix]]
 - Carving A Rose From Wood
 - Learning to Fire Spin 🔥
 
