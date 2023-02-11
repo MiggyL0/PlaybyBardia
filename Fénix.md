@@ -3,6 +3,9 @@
 <!-- [[scratch]] -->
 
 - [Notes](#notes)
+- [Todo](#todo)
+  - [In Progress](#in-progress)
+  - [Complete](#complete)
 
 ## Notes
 
@@ -18,4 +21,10 @@ fénix🔥🐦 Breakdown
 - Attach individual components.
   - consider joints
 - burn 🔥
+
+## Todo
+
+### In Progress
+
+### Complete
 
