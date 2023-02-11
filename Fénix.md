@@ -9,6 +9,8 @@
 
 ## Notes
 
+## Todo
+
 fénix🔥🐦 Breakdown
 
 - Make a puzzle or two and take pictures along the way
@@ -22,9 +24,6 @@ fénix🔥🐦 Breakdown
   - consider joints
 - burn 🔥
 
-## Todo
-
 ### In Progress
 
 ### Complete
-
