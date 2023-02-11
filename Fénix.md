@@ -1,8 +1,10 @@
 # My Project For Animalia
+
 <!-- [[scratch]] -->
 
-## Notes
+- [Notes](#notes)
 
+## Notes
 
 fénix🔥🐦 Breakdown
 
@@ -16,3 +18,4 @@ fénix🔥🐦 Breakdown
 - Attach individual components.
   - consider joints
 - burn 🔥
+
