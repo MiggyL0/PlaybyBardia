@@ -24,4 +24,6 @@ Hello! I created this site. I'm pretty new to this immersive exhibit, but I've h
 - Carving A Rose From Wood
 - Learning to Fire Spin 🔥
 
+<!-- [[Sculpting-a-Wooden-Phoenix]] -->
+
 I've come to enjoy painting this past winter as well. I'm starting small but at some point I would like to go bigger and bigger until I am comfortable painting a mural at my future home 🏡.
