@@ -13,4 +13,6 @@ I love having a place to literally just jot down ideas with no organization.
   - wings
   - tail
 - look at how to mount it on a pedestal or tension
-- 
+- Attach individual components.
+  - consider joints
+- burn 🔥
