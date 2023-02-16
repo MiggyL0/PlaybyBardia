@@ -22,9 +22,9 @@ Hello! I created this site. I'm pretty new to this immersive exhibit, but I've h
 
 - [Sculpting-a-Wooden-Phoenix](https://github.com/MiggyL0/PlaybyBardia/blob/17e2d94bf985aee8eba82a160eec7179f0d0c125/Sculpting-a-Wooden-Phoenix.md#L3)
 - [[Learning-To-Fire-Spin]] 🔥
-- [[Trash-Tree]]
+- [Trash-Tree](https://github.com/MiggyL0/PlaybyBardia/blob/22981456f9aabe6342f240e08160aa203f504ab9/Trash-Tree.md#L11)
 - Carving A Rose From Wood
 
-<!-- [[Fénix]] -->
+<!-- [[Fénix]][[Trash-Tree]] -->
 
 I've come to enjoy painting this past winter as well. I'm starting small but at some point I would like to go bigger and bigger until I am comfortable painting a mural at my future home 🏡.

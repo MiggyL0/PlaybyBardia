@@ -13,10 +13,10 @@
 
 ### In Progress
 
-- [ ] LEvel legs
+- [ ] Level legs (Optional)
 
 ### Complete
 
 ## Log
 
-2023-02-15 Made the base. Cut 4 legs.
+2023-02-15 Made the base. Cut 4 legs. Feeling good.
