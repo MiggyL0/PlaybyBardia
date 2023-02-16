@@ -2,6 +2,8 @@
 
 <!-- [[scratch]] -->
 
+![Reference Image](https://upload.wikimedia.org/wikipedia/commons/0/04/Fenix_highresulution.svg)
+
 - [Notes](#notes)
 - [Todo](#todo)
   - [In Progress](#in-progress)
@@ -27,3 +29,5 @@ fénix🔥🐦 Breakdown
 ### In Progress
 
 ### Complete
+
+
