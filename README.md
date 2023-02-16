@@ -21,8 +21,9 @@ There is already a page for our creators on the actual [site](https://playnorfol
 Hello! I created this site. I'm pretty new to this immersive exhibit, but I've had a lovely time so far and I'm excited to see where my involvement here takes me. My current projects include the following
 
 - [Sculpting-a-Wooden-Phoenix](https://github.com/MiggyL0/PlaybyBardia/blob/17e2d94bf985aee8eba82a160eec7179f0d0c125/Sculpting-a-Wooden-Phoenix.md#L3)
+- [[Learning-To-Fire-Spin]] 🔥
+- [[Trash-Tree]]
 - Carving A Rose From Wood
-- Learning to Fire Spin 🔥
 
 <!-- [[Fénix]] -->
 
